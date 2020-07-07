@@ -1,1 +1,1 @@
-# React-estate-with-django
+# real-estate-app-with-django
